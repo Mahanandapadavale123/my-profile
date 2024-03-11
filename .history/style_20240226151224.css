@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+.tab{
+    border: 2px;
+    border-color: blueviolet;
+}
+nav{
+    text-decoration: dashed;
+    background-color: brown;
+    color:black;
+}

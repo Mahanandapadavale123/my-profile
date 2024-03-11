@@ -1,3 +1,69 @@
+
+#head{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+#container{
+    margin: 5px 10px 5px 10px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+}
 a{
     text-decoration: none;
+    font-weight: bold;
 }
+
+#imp{
+    color: indigo;
+    font-weight: bolder;
+}
+.tab{
+    border: 2px;
+    border-color: rgb(22, 21, 22);
+    border-collapse: collapse;
+    margin-top: 15px;
+    padding: 5px;
+}
+button{
+    background-color: blueviolet;
+    color: black;
+    margin: 10px;
+
+}
+h2{
+    /* background-color: blueviolet; */
+    /* color: crimson; */
+    font-weight: bold;
+    display: inline;
+}
+.btn:hover{
+background-color: chartreuse
+};
+.mytech{
+    color: black;
+    background-color: aqua;
+   
+}
+li{
+    list-style-type: none;
+    list-style-type:lower-alpha;
+    padding: 5px;;
+
+}
+li::marker{
+    content: 1F449 ;
+}
+.ang{
+    color: green; 
+}
+
+.info{
+    margin-right: 30px;
+}
+  
+th,td{
+    padding: 30px;
+   }
+
